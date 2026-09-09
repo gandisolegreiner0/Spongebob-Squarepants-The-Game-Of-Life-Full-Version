@@ -240,3 +240,6 @@ This repository serves as the official landing page for SpongeBob SquarePants Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SpongeBob SquarePants The Game of Life today!**
+
+---
+**Last updated:** 2026-09-09 19:36:02 UTC
